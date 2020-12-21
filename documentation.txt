@@ -1,0 +1,26 @@
+MONGO DB:
+www.cloud.mongodb.com
+EMAIL ID:sanaeram5@gmail.com
+PASSWORD:eramsana
+
+FOR DATABASE USER:
+USERNAME:sanaeram5
+PASSWORD:eramsana
+
+FOR PLACEMENT PORTAL DATABASE IN USE:
+placement
+COLLECTIONS:
+(1)-- students
+
+API CREATED USING EXPRESS.JS
+(1)-localhost:5000/api/student (GET)
+(2)-localhost:5000/api/student (POST)
+(3)-localhost:5000/api/student/:id (DELETE)
+
+TO RUN THE SERVER:
+After cloning the folder install front and backend dependencies by:
+--> npm install .
+--> npm run client-install
+(1)-BOTH FRONT END AND BACKEND: npm run dev
+(2)-BACKEND: npm run server
+(3)-FRONTEND: nmp run client
